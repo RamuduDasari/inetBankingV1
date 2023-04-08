@@ -1,0 +1,7 @@
+H:
+
+cd Selenium_Scripts_Mar2023\inetBankingV1
+
+mvn clean install
+
+pause
